@@ -19,6 +19,11 @@
         "name": "phovea_security_store_generated",
         "repo": "datavisyn/phovea_security_store_generated",
         "branch": "master"
+      },
+      {
+        "name": "touring",
+        "repo": "Caleydo/touring",
+        "branch": "master"
       }
     ]
   },
@@ -56,7 +61,7 @@
       {
         "name": "tdp_core",
         "repo": "datavisyn/tdp_core",
-        "branch": "develop"
+        "branch": "keckelt/122/touring"
       },
       {
         "name": "tdp_publicdb",
