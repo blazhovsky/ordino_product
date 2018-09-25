@@ -24,6 +24,11 @@
         "name": "touring",
         "repo": "Caleydo/touring",
         "branch": "master"
+      },
+      {
+        "name": "tdp_core",
+        "repo": "datavisyn/tdp_core",
+        "branch": "keckelt/122/touring"
       }
     ]
   },
