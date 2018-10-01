@@ -29,6 +29,11 @@
         "name": "tdp_core",
         "repo": "datavisyn/tdp_core",
         "branch": "keckelt/122/touring"
+      },
+      {
+        "name": "tdp_dummy",
+        "repo": "Caleydo/tdp_dummy",
+        "branch": "master"
       }
     ]
   },
@@ -72,6 +77,11 @@
         "name": "tdp_publicdb",
         "repo": "Caleydo/tdp_publicdb",
         "branch": "develop"
+      },
+      {
+        "name": "tdp_dummy",
+        "repo": "Caleydo/tdp_dummy",
+        "branch": "master"
       }
     ]
   }
